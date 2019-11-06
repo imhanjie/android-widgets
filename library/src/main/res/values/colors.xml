@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="widget_colorPrimary">#4CAF50</color>
+    <color name="widget_colorPrimaryDark">#388E3C</color>
+    <color name="widget_colorAccent">#4CAF50</color>
+    <color name="widget_colorPrimaryLight">#94DF98</color>
+    <color name="widget_color_common_divider">#D7D7D8</color>
+    <color name="widget_common_window_background">#f2f3f5</color>
+
+    <color name="widget_color_d7d7d8">#d7d7d8</color>
+    <color name="widget_color_333333">#333333</color>
+    <color name="widget_color_gray_ripple">#dbdee4</color>
+    <color name="widget_color_d7d9da">#d7d9da</color>
+    <color name="widget_color_3a3a40">#3a3a40</color>
+
+    <color name="widget_color_success">#94df98</color>
+    <color name="widget_color_error">#b00020</color>
+
+    <color name="widget_color_text_black_1">#242424</color>
+    <color name="widget_color_text_black_2">#333333</color>
+    <color name="widget_color_text_black_3">#666666</color>
+    <color name="widget_color_text_black_4">#999999</color>
+    <color name="widget_color_2d3547">#2d3547</color>
+    <color name="widget_color_2c2f36">#2C2F36</color>
+    <color name="widget_color_999999">#999999</color>
+</resources>

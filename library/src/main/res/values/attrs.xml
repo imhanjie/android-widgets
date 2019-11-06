@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--顶部 TopBar-->
+    <declare-styleable name="WidgetPureTopBar">
+        <attr name="widget_bar_titleText" format="string" />
+        <attr name="widget_bar_rightText" format="string" />
+        <attr name="widget_bar_rightIcon" format="reference" />
+        <attr name="widget_bar_rightTextColor" format="color" />
+        <attr name="widget_bar_rightSecondaryText" format="string" />
+        <attr name="widget_bar_rightSecondaryIcon" format="reference" />
+        <attr name="widget_bar_rightSecondaryTextColor" format="color" />
+        <attr name="widget_bar_leftVisibility">
+            <enum name="visible" value="0" />
+            <enum name="invisible" value="4" />
+            <enum name="gone" value="8" />
+        </attr>
+        <attr name="widget_bar_rightVisibility">
+            <enum name="visible" value="0" />
+            <enum name="invisible" value="4" />
+            <enum name="gone" value="8" />
+        </attr>
+        <attr name="widget_bar_rightSecondaryVisibility">
+            <enum name="visible" value="0" />
+            <enum name="invisible" value="4" />
+            <enum name="gone" value="8" />
+        </attr>
+        <attr name="widget_bar_light_mode" format="boolean" />
+    </declare-styleable>
+
+    <!--顶部 SearchBar-->
+    <declare-styleable name="WidgetPureSearchBar">
+        <attr name="widget_search_hintText" format="string" />
+        <attr name="widget_search_background" format="reference" />
+    </declare-styleable>
+
+    <!--设置选择 item-->
+    <declare-styleable name="WidgetSettingsSelectItem">
+        <attr name="widget_item_titleText" format="string" />
+        <attr name="widget_item_descText" format="string" />
+        <attr name="widget_divider" format="boolean" />
+        <attr name="widget_settings_tips" format="string" />
+    </declare-styleable>
+
+</resources>
